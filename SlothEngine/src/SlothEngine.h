@@ -4,6 +4,7 @@
 
 #include "SlothEngine/Application.h"
 #include <cstdio>
+#include "SlothEngine/Log.h"
 
 // -------Entry point--------------
 #include "SlothEngine/EntryPoint.h"
