@@ -8,7 +8,7 @@ public:
 	~Sandbox() = default;
 };    
 
-SE::Application* CreateApplication()
+SE::Application* SE::CreateApplication()
 {
 	return new Sandbox();
 }
