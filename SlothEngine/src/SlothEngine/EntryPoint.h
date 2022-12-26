@@ -8,9 +8,8 @@ extern SE::Application* SE::CreateApplication();
 int main(int argc, char** argv)
 {
 	SE::Log::Init();
-	SE_CORE_WARN("Initialised Log for Core");
-	int a = 5;
-	SE_CORE_INFO("Initialised Log for Client, VarTesting={0}", a);
+	SE_CORE_WARN("Initialised Log for Coreasekhjedf naskdhjfnbsdkjfnkjdf");
+	SE_CORE_INFO("Initialised Log for Client");
 
 	auto app = SE::CreateApplication();
 	app->Run();
