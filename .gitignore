@@ -37,3 +37,6 @@ bin-int/
 
 # files
 .user
+*.vcxproj
+*.vcxproj.filters
+*.sln
