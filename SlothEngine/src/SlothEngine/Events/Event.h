@@ -1,9 +1,7 @@
 #pragma once
 
 #include "SlothEngine/core.h"
-#include <string>
-#include <functional>
-
+#include "hzpch.h"
 namespace SE
 {
 

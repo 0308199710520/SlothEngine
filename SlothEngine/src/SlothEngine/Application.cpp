@@ -1,3 +1,5 @@
+#include "hzpch.h"
+
 #include "Application.h"
 #include "SlothEngine/Events/ApplicationEvent.h"
 #include "SlothEngine/Log.h"
